@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ứng_dụng_nhóm_2.CuaHangForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBBAABABEyBAAhgACASAAAACDAimAAAAAAACSQAAAAA=</HashCode>
+      <FileName>Cửa Hàng\CuaHangForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.CuaHangPrintForm" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAAAACACAAAACACiiAOAAAABCAAAEAAQ=</HashCode>
+      <FileName>Cửa Hàng\CuaHangPrintForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.DoanhThuCuaHangForm" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEACAACAAAAAGAACAAAACAACAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Cửa Hàng\DoanhThuCuaHangForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.LoginForm" Collapsed="true">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAEABICgAABAAAICAAAASAAAAAAACAQAAAQBAAAA=</HashCode>
+      <FileName>Form Chính\LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.MainForm" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAFCAICCAwAACMACAEAAiAAhAkAACAQBEIBBAAAA=</HashCode>
+      <FileName>Form Chính\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.GiaoDienDanhMucHangHoa" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABBCAYABAAAAWAIkACACiiAiCAEAACAQKEgAA=</HashCode>
+      <FileName>Hàng Hóa\GiaoDienDanhMucHangHoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.NhapKhoForm" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQECAIABASBQAlgCCAqAIoALAIggQAAIgtACCQBAAAA=</HashCode>
+      <FileName>Hàng Hóa\NhapKhoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.XuatKhoForm" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQECBIQBASBQAlgCiAqAIoACAIgCQAAIghgCCQBAAAA=</HashCode>
+      <FileName>Hàng Hóa\XuatKhoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.DoanhThuNhaCungCapForm" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAECAAABAAAACAAAAKAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nhà Cung Cấp\DoanhThuNhaCungCapForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.NhaCungCapForm" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAAAAyBAAlgACACAAAACBAiCAAAAAQAKSQAAAAA=</HashCode>
+      <FileName>Nhà Cung Cấp\NhaCungCapForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.NhaCungCapPrintForm" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAAACAAAEAACACAAAACACgiAOAAAAACAAAEAAA=</HashCode>
+      <FileName>Nhà Cung Cấp\NhaCungCapPrintForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.CuaHang" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAEEAAQAAAAAAAA=</HashCode>
+      <FileName>Template Class\CuaHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.CungCap" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAEAAAQAAAQAAAA=</HashCode>
+      <FileName>Template Class\CungCap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.HangHoa" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Template Class\HangHoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.KhoHang" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAQAACAQAAAACAAAAAAAEAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Template Class\KhoHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.My_db" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAQAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Template Class\My_db.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.Program" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Template Class\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ứng_dụng_nhóm_2.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAEAAgEAAAAAAABBYA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

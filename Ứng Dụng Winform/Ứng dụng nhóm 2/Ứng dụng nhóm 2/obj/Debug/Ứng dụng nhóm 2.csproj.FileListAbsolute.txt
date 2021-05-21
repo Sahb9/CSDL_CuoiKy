@@ -1,0 +1,23 @@
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\bin\Debug\Ứng dụng nhóm 2.exe.config
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\bin\Debug\Ứng dụng nhóm 2.exe
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\bin\Debug\Ứng dụng nhóm 2.pdb
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\bin\Debug\Guna.UI2.dll
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng dụng nhóm 2.csproj.ResolveComReference.cache
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.CuaHangForm.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.MainForm.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.GiaoDienDanhMucHangHoa.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.NhaCungCapForm.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.Properties.Resources.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.XuatKhoForm.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng dụng nhóm 2.csproj.GenerateResource.cache
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng dụng nhóm 2.csproj.CoreCompileInputs.cache
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng dụng nhóm 2.csproj.CopyComplete
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng dụng nhóm 2.exe
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng dụng nhóm 2.pdb
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.NhapKhoForm.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.LoginForm.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng dụng nhóm 2.csprojAssemblyReference.cache
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.CuaHangPrintForm.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.NhaCungCapPrintForm.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.DoanhThuNhaCungCapForm.resources
+D:\Learning\hk4-2020 2021\Hệ quản trị cơ sở dữ liệu\Mô hình cuối kỳ\Ứng Dụng Winform\Ứng dụng nhóm 2\Ứng dụng nhóm 2\obj\Debug\Ứng_dụng_nhóm_2.DoanhThuCuaHangForm.resources
